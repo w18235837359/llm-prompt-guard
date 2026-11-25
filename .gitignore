@@ -1,0 +1,15 @@
+# 学习文件夹
+/学习阶段/
+
+# PyCharm 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+
+# 敏感配置
+.env
