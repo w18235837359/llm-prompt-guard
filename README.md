@@ -1,4 +1,4 @@
-# llm-prompt-gurad
+# llm-prompt-guard
 # LLM Prompt Guard
 
 **基于大语言模型微调与多层防御机制的 AI 安全网关**
